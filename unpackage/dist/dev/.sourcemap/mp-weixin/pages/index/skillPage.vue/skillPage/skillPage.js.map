@@ -1,0 +1,1 @@
+{"version":3,"sources":["uni-app:///main.js"],"names":["createPage","Page"],"mappings":";;;;;;;;;;kDAAA;AACA;AACA,4H;AACAA,UAAU,CAACC,kBAAD,CAAV,C","file":"pages/index/skillPage.vue/skillPage/skillPage.js","sourcesContent":["import 'uni-pages';\nimport Vue from 'vue'\nimport Page from './pages/index/skillPage.vue/skillPage/skillPage.vue'\ncreatePage(Page)"],"sourceRoot":""}

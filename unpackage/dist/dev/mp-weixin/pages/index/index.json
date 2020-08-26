@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "小团云购",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "usingComponents": {}
+}
